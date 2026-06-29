@@ -24,3 +24,24 @@ exclude:
   - node_modules
   - vendor
   
+# ナビゲーションバーの設定
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+
+# メニュー項目の定義
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Research"
+      url: /research/
+    - title: "Publications"
+      url: /publications/
+    - title: "Join Us"
+      url: /joinus/
+    - title: "English"
+      url: /en/
