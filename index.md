@@ -7,9 +7,9 @@ header:
   overlay_image: https://images.unsplash.com/photo-1518818419601-72c8673f5852?w=1600 # ←後でお好きなメダカなどの画像URLに差し替えられます
   excerpt: "メダカから解き明かす、動物が季節や温度に適応する仕組みと脳の不思議"
   actions:
-    - label: "研究室について詳しく"
+    - label: "研究内容について詳しく"
       url: "/research/"
-excerpt: "名古屋大学 大学院生命農学研究科 中山研究室"
+excerpt: "名古屋大学 テスト"
 
 feature_row:
   - image_path: https://images.unsplash.com/photo-1535557142533-b5e1cc6e2a5d?w=600 # ←カード1の画像
@@ -29,7 +29,7 @@ feature_row:
   - image_path: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600 # ←カード3の画像
     alt: "Publications"
     title: "📚 研究業績 (Publications)"
-    excerpt: "これまでの主要論文や、最新のresearchmap情報はこちらから。"
+    excerpt: "これまでの論文の情報はこちらから。"
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "業績一覧"
