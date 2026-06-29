@@ -33,6 +33,7 @@ defaults:
       author_profile: true
 
 # メニュー項目の定義
+site_navigation: main
 navigation:
   main:
     - title: "Home"
