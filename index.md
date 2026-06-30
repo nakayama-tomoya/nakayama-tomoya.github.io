@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: https://images.unsplash.com/photo-1518818419601-72c8673f5852?w=1600 # ←後でお好きなメダカなどの画像URLに差し替えられます
+  overlay_image: assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png # ←後でお好きなメダカなどの画像URLに差し替えられます
   excerpt: "メダカから解き明かす、動物が季節や温度に適応する仕組みと脳の不思議"
   actions:
     - label: "研究内容について詳しく"
