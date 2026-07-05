@@ -36,7 +36,7 @@ Corresponding Author (責任著者) : **\***
 
 *   Dynamic plasticity in phototransduction regulates seasonal changes in color perception.
     Tsuyoshi Shimmura, **Tomoya Nakayama**, Ai Shinomiya, Shoji Fukamachi, Masaki Yasugi, Eiji Watanabe, Takayuki Shimo, Takumi Senga, Toshiya Nishimura, Minoru Tanaka ... Takashi Yoshimura*.
-    *Nature Communications* 8(1), 2017. [DOI: XXXXXX]
+    *Nature Communications* 8(1), 2017. [DOI: XXXXXX] ([プレスリリース](https://www.nibb.ac.jp/press/2017/09/04.html))
 
 ---
 
