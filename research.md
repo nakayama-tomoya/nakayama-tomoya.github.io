@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-<div class="archive" style="max-width: 1200px; margin: 0 auto; padding: 2em;">
 
 <!-- トップページで生成した神秘的なメダカの画像を、ここにもアイキャッチとして配置します -->
 ![メダカとDNA、季節適応のイメージ](/assets/images/header-medaka.png)
