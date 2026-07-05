@@ -2,8 +2,6 @@
 layout: splash
 title: "研究業績"
 permalink: /publications/
-sidebar:
-  nav: "main"
 ---
 
 最新の全業績リストは、**[researchmap (中山 友哉)](https://researchmap.jp/nakayama.t)** をご覧ください。
