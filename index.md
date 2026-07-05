@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /
+title: "地球上に生息する生物の不思議な機能に迫る"
 header:
-  title: "地球上に生息する生物の不思議な機能に迫る"
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png # ←後でお好きなメダカなどの画像URLに差し替えられます
