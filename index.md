@@ -9,7 +9,7 @@ header:
   actions:
     - label: "研究内容について詳しく"
       url: "/research/"
-excerpt: "名古屋大学 テスト"
+excerpt: "生物が有する能力の分子機構に迫る"
 
 feature_row:
   - image_path: https://images.unsplash.com/photo-1535557142533-b5e1cc6e2a5d?w=600 # ←カード1の画像
@@ -39,7 +39,7 @@ feature_row:
 
 ---
 
-## 📢 最新ニュース
+##  最新ニュース
 
 * **2026.06.29**：個人ホームページを開設しました！
 * **202X.XX.XX**：ここに最新のニュース（論文受理、受賞、メディア出演など）を追加していきます。
