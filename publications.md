@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "研究業績 (Publications)"
+layout: splash
+title: "研究業績"
 permalink: /publications/
 sidebar:
   nav: "main"
@@ -10,7 +10,7 @@ sidebar:
 
 ---
 
-## 🌟 主要論文 (Selected Publications)
+##  主要な論文
 
 *responsibility author (責任著者) : **\***
 
@@ -40,7 +40,7 @@ sidebar:
 
 ---
 
-## 🏆 受賞歴 (Awards)
+##  受賞歴
 
 *   **2025年10月**: 日本時間生物学会奨励賞（日本時間生物学会）
 *   **2025年1月**: 第19回わかしゃち奨励賞 基礎研究部門・優秀賞（公益財団法人科学技術交流財団・公益財団法人日比科学技術振興財団）
