@@ -15,7 +15,7 @@ feature_row:
   - image_path: https://images.unsplash.com/photo-1535557142533-b5e1cc6e2a5d?w=600 # ←カード1の画像
     alt: "Research"
     title: "研究内容"
-    excerpt: "メダカをモデルとして、ゲノム解析・神経科学・行動観察から生命の謎に迫ります。"
+    excerpt: "地球上に生息する多様な能力を有する生物に着目し、その能力の分子機構に迫ります。"
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "もっと見る"
