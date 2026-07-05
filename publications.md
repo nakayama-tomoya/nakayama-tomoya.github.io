@@ -10,30 +10,32 @@ permalink: /publications/
 
 ##  主要な論文
 
-*responsibility author (責任著者) : **\***
+Corresponding Author (責任著者) : **\***
 
-### 2023 - Present
+### 2024 - Present
 
-*   Orphan nuclear receptor nr4a1 regulates winter depression-like behavior in medaka.
-    **Tomoya Nakayama**, Fuka Hirano, Yuki Okushi, Kousuke Matsuura, Miki Ohashi, Akiko Matsumiya, Takashi Yoshimura.
+*   phod1
+
+### ~ 2023
+
+*   Orphan nuclear receptor *nr4a1* regulates winter depression-like behavior in medaka.
+    **Tomoya Nakayama**, Fuka Hirano, Yuki Okushi, Kousuke Matsuura, Miki Ohashi, Akiko Matsumiya, Takashi Yoshimura*.
     *Neuroscience letters* 137469-137469, 2023. [DOI: XXXXXX]
-
-### ~ 2022
-
+    
 *   A transcriptional program underlying the circannual rhythms of gonadal development in medaka.
-    **Tomoya Nakayama**, Miki Tanikawa, Yuki Okushi, Thoma Itoh, Tsuyoshi Shimmura, Michiyo Maruyama, Taiki Yamaguchi, Akiko Matsumiya, Ai Shinomiya, Ying-Jey Guh ... Takashi Yoshimura.
+    **Tomoya Nakayama**, Miki Tanikawa, Yuki Okushi, Thoma Itoh, Tsuyoshi Shimmura, Michiyo Maruyama, Taiki Yamaguchi, Akiko Matsumiya, Ai Shinomiya, Ying-Jey Guh ... Takashi Yoshimura*.
     *Proceedings of the National Academy of Sciences (PNAS)* 120(52), 2023. [DOI: XXXXXX]
 
 *   Seasonal changes in NRF2 antioxidant pathway regulates winter depression-like behavior.
-    **Tomoya Nakayama**, Kousuke Okimura, Jiachen Shen, Ying-Jey Guh, T Katherine Tamai, Akiko Shimada, Souta Minou, Yuki Okushi, Tsuyoshi Shimmura, Yuko Furukawa ... Takashi Yoshimura.
+    **Tomoya Nakayama**, Kousuke Okimura, Jiachen Shen, Ying-Jey Guh, T Katherine Tamai, Akiko Shimada, Souta Minou, Yuki Okushi, Tsuyoshi Shimmura, Yuko Furukawa ... Takashi Yoshimura*.
     *Proceedings of the National Academy of Sciences (PNAS)* 117(17) 9594-9603, 2020. [DOI: XXXXXX]
 
-*   Seasonal regulation of the lncRNA LDAIR modulates self-protective behaviours during the breeding season.
-    **Tomoya Nakayama**, Tsuyoshi Shimmura, Ai Shinomiya, Kousuke Okimura, Yusuke Takehana, Yuko Furukawa, Takayuki Shimo, Takumi Senga, Mana Nakatsukasa, Toshiya Nishimura ... Takashi Yoshimura.
+*   Seasonal regulation of the lncRNA *LDAIR* modulates self-protective behaviours during the breeding season.
+    **Tomoya Nakayama**, Tsuyoshi Shimmura, Ai Shinomiya, Kousuke Okimura, Yusuke Takehana, Yuko Furukawa, Takayuki Shimo, Takumi Senga, Mana Nakatsukasa, Toshiya Nishimura ... Takashi Yoshimura*.
     *Nature Ecology & Evolution* 3(5) 1-8, 2019. [DOI: XXXXXX]
 
 *   Dynamic plasticity in phototransduction regulates seasonal changes in color perception.
-    Tsuyoshi Shimmura, **Tomoya Nakayama**, Ai Shinomiya, Shoji Fukamachi, Masaki Yasugi, Eiji Watanabe, Takayuki Shimo, Takumi Senga, Toshiya Nishimura, Minoru Tanaka ... Takashi Yoshimura.
+    Tsuyoshi Shimmura, **Tomoya Nakayama**, Ai Shinomiya, Shoji Fukamachi, Masaki Yasugi, Eiji Watanabe, Takayuki Shimo, Takumi Senga, Toshiya Nishimura, Minoru Tanaka ... Takashi Yoshimura*.
     *Nature Communications* 8(1), 2017. [DOI: XXXXXX]
 
 ---
