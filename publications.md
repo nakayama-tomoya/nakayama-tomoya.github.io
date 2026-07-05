@@ -4,17 +4,12 @@ title: "研究業績"
 permalink: /publications/
 ---
 
-最新の全業績リストは、**[researchmap (中山 友哉)](https://researchmap.jp/nakayama.t)** をご覧ください。
-
----
-
 ##  主要な論文
-
-Corresponding Author (責任著者) : **\***
 
 ### 2024 - Present
 
-*   phod1
+*   *Photoperiod decoder 1* regulates seasonal changes in energy metabolism through the growth hormone signaling pathway.  **Tomoya Nakayama**\*, Taiki Yamaguchi, Michiyo Maruyama, Satoshi Ansai, Makoto Kashima, Romain Fontaine, Christiaan Henkel, Kiyoshi Naruse, Takashi Yoshimura. 
+*bioRxiv* 2025.02.19.638565. [DOI: 10.1101/2025.02.19.638565]
 
 ### ~ 2023
 
@@ -38,6 +33,8 @@ Corresponding Author (責任著者) : **\***
     Tsuyoshi Shimmura, **Tomoya Nakayama**, Ai Shinomiya, Shoji Fukamachi, Masaki Yasugi, Eiji Watanabe, Takayuki Shimo, Takumi Senga, Toshiya Nishimura, Minoru Tanaka ... Takashi Yoshimura*.
     *Nature Communications* 8(1), 2017. [DOI: 10.1038/s41467-017-00432-8] ([プレスリリース](https://www.nibb.ac.jp/press/2017/09/04.html))
 
+Corresponding Author (責任著者) : **\***
+
 ---
 
 ##  受賞歴
@@ -51,3 +48,9 @@ Corresponding Author (責任著者) : **\***
 2019年10月: 日本時間生物学会優秀ポスター賞（日本時間生物学会）
 
 2019年1月: ITbM Research Award（名古屋大学 トランスフォーマティブ生命分子研究所）
+
+---
+
+最新の全業績リストは、**[researchmap (中山 友哉)](https://researchmap.jp/nakayama.t)** をご覧ください。
+
+---
