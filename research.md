@@ -2,8 +2,6 @@
 layout: single
 title: "研究内容 (Research)"
 permalink: /research/
-#sidebar:
-  #nav: "main"
 ---
 
 <!-- トップページで生成した神秘的なメダカの画像を、ここにもアイキャッチとして配置します -->
