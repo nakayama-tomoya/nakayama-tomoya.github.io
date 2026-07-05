@@ -2,6 +2,7 @@
 layout: single
 title: "研究内容 (Research)"
 permalink: /research/
+author_profile: false
 ---
 
 <!-- トップページで生成した神秘的なメダカの画像を、ここにもアイキャッチとして配置します -->
