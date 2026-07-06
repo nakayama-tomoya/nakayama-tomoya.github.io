@@ -42,5 +42,5 @@ feature_row:
 
 ##  最新ニュース
 
-* **2026.7.3**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、『General and Comparative Endocrinology』誌に掲載されました。
+* **2026.7.3**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、『General and Comparative Endocrinology』誌に掲載されました。([論文](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub))
 * **2026.06.29**：個人ホームページを開設しました。
