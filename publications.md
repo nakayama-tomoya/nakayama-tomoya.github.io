@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2024 - Present
 
+*   Medaka as a model for seasonal adaptation: molecular insights across multiple biological systems. **Tomoya Nakayama**\*, Takashi Yoshimura. *General and Comparative Endocrinology* 383 114967, 2026. [DOI: 10.1016/j.ygcen.2026.114967]
+
 *   *Photoperiod decoder 1* regulates seasonal changes in energy metabolism through the growth hormone signaling pathway.  **Tomoya Nakayama**\*, Taiki Yamaguchi, Michiyo Maruyama, Satoshi Ansai, Makoto Kashima, Romain Fontaine, Christiaan Henkel, Kiyoshi Naruse, Takashi Yoshimura. 
 *bioRxiv* 2025.02.19.638565. [DOI: 10.1101/2025.02.19.638565]
 
