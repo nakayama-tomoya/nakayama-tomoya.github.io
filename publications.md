@@ -14,10 +14,10 @@ permalink: /publications/
 ### ~ 2023
 
 *   Orphan nuclear receptor *nr4a1* regulates winter depression-like behavior in medaka.
-    **Tomoya Nakayama**, Fuka Hirano, Yuki Okushi, Kousuke Matsuura, Miki Ohashi, Akiko Matsumiya, Takashi Yoshimura*. *Neuroscience letters* 137469-137469, 2023. [DOI: 10.1016/j.neulet.2023.137469]
+    **Tomoya Nakayama**, Fuka Hirano, Yuki Okushi, Kousuke Matsuura, Miki Ohashi, Akiko Matsumiya, Takashi Yoshimura\*. *Neuroscience letters* 137469-137469, 2023. [DOI: 10.1016/j.neulet.2023.137469]
     
 *   A transcriptional program underlying the circannual rhythms of gonadal development in medaka.
-    **Tomoya Nakayama**, Miki Tanikawa, Yuki Okushi, Thoma Itoh, Tsuyoshi Shimmura, Michiyo Maruyama, Taiki Yamaguchi, Akiko Matsumiya, Ai Shinomiya, Ying-Jey Guh, Junfeng Chen, Kiyoshi Naruse, Hiroshi Kudoh, Yohei Kondo, Honda Naoki, Kazuhiro Aoki, Atsushi J. Nagano, Takashi Yoshimura*. *Proceedings of the National Academy of Sciences (PNAS)* 120(52), 2023. [DOI: 10.1073/pnas.2313514120] ([プレスリリース](https://www.itbm.nagoya-u.ac.jp/ja/research/2023/12/post-67.php))
+    **Tomoya Nakayama**, Miki Tanikawa, Yuki Okushi, Thoma Itoh, Tsuyoshi Shimmura, Michiyo Maruyama, Taiki Yamaguchi, Akiko Matsumiya, Ai Shinomiya, Ying-Jey Guh, Junfeng Chen, Kiyoshi Naruse, Hiroshi Kudoh, Yohei Kondo, Honda Naoki, Kazuhiro Aoki, Atsushi J. Nagano, Takashi Yoshimura\*. *Proceedings of the National Academy of Sciences (PNAS)* 120(52), 2023. [DOI: 10.1073/pnas.2313514120] ([プレスリリース](https://www.itbm.nagoya-u.ac.jp/ja/research/2023/12/post-67.php))
 
 *   Seasonal changes in NRF2 antioxidant pathway regulates winter depression-like behavior.
     **Tomoya Nakayama**, Kousuke Okimura, Jiachen Shen, Ying-Jey Guh, T Katherine Tamai, Akiko Shimada, Souta Minou, Yuki Okushi, Tsuyoshi Shimmura, Yuko Furukawa, Naoya Kadofusa, Ayato Sato, Toshiya Nishimura, Minoru Tanaka, Kei Nakayama, Nobuyuki Shiina, Naoyuki Yamamoto, Andrew S. Loudon, Taeko Nishiwaki-Ohkawa, Ai Shinomiya, Toshitaka Nabeshima, Yusuke Nakane, Takashi Yoshimura*. *Proceedings of the National Academy of Sciences (PNAS)* 117(17) 9594-9603, 2020. [DOI: 10.1073/pnas.2000278117] ([プレスリリース](https://www.itbm.nagoya-u.ac.jp/ja_backup/research/2020/04/post-19.php))
