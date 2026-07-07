@@ -4,6 +4,8 @@ title: "自己紹介 (About Me)"
 permalink: /about/
 ---
 
+<img src="/assets/images/TomoyaNakayama.jpeg" alt="中山友哉" style="max-width: 10%; height: auto;">
+
 ##  趣味
 
 アクアリウム、釣り
