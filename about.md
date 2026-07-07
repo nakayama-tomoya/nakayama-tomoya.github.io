@@ -1,4 +1,4 @@
-<img width="442" height="25" alt="image" src="https://github.com/user-attachments/assets/3cb04f17-ab67-4bf8-830b-5500ad3aa015" />---
+---
 layout: splash
 title: "自己紹介 (About Me)"
 permalink: /about/
