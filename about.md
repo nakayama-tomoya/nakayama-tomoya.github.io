@@ -4,7 +4,8 @@ title: "自己紹介 (About Me)"
 permalink: /about/
 ---
 
-<img src="/assets/images/TomoyaNakayama.jpeg" alt="中山友哉" style="max-width: 10%; height: auto;">
+<img src="/assets/images/TomoyaNakayama.jpeg" alt="中山友哉" style="max-width: 30%; height: auto;">
+中山　友哉（Nakayama Tomoya）
 
 ##  趣味
 
