@@ -12,7 +12,31 @@ author_profile: false
 地球上には様々な環境が存在し、それぞれに適応した多種多様な動物が暮らしています。私たちが暮らす日本のような温帯では **「季節」** が存在するため、そこに生息する動物は日の長さ（日長）や温度の劇的な変化に晒されます。
 温帯に生息する動物は、日の長さ（日長）を正確に読み取り、自身の生理機能や行動を変化させる能力（光周性と呼ばれています）や、幅広い温度域に適応できる能力を獲得してきましたが、その分子進化機構はまだ明らかとなっていません。私たちは、メダカ（*Oryzias latipes*）やその近縁種をモデルとしてこの謎を明らかにしようと研究をしています。日本に広く生息するメダカは短日条件で飼育すると卵を産みませんが、長日条件で飼育すると毎日のように卵を産みます。また、夏の炎天下や冬の極寒期でもへっちゃらで過ごすことができます。一方で、熱帯に生息する近縁種はこのような能力を有していません。本研究ではメダカと多様な環境適応能を有する近縁種の比較解析を実施することで、「季節適応能の分子進化機構」を明らかにしようとしています。
 
-![メダカとDNA、季節適応のイメージ](/assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png)
+<!-- ![メダカとDNA、季節適応のイメージ](/assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png) -->
+
+<!-- 3枚の画像を横並びにするブロック -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin: 30px 0;">
+
+  <!-- 1枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png" alt="画像1説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>画像1のキャプション</small>
+  </div>
+
+  <!-- 2枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/sections.png" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>画像2のキャプション</small>
+  </div>
+
+  <!-- 3枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>画像3のキャプション</small>
+  </div>
+
+</div>
+
 
 ### 2. 工事中
 
