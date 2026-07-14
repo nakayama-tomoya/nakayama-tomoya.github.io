@@ -44,4 +44,4 @@ feature_row:
 
 * **2026.07.03**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、『General and Comparative Endocrinology』誌に掲載されました。([論文](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub))
 * **2026.06.29**：個人ホームページを開設しました。
-* **2026.04.01**：学術変革（A）[「多次元グローカル光バイオロジー：光が照らす生命現象の未知の沃壌」](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub](https://glocal-photobiology.pharm.okayama-u.ac.jp))の計画班として研究をスタートしました。
+* **2026.04.01**：学術変革（A）[「多次元グローカル光バイオロジー：光が照らす生命現象の未知の沃壌」](https://glocal-photobiology.pharm.okayama-u.ac.jp)の計画班として研究をスタートしました。
