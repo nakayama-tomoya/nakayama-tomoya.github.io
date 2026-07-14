@@ -51,7 +51,17 @@ xxx。
     <small>画像1のキャプション</small>
   </div>
 
- 
+ <!-- 2枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/xx" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>画像2のキャプション</small>
+  </div>
+
+  <!-- 3枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/xx" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>画像3のキャプション</small>
+  </div>
 
 </div>
 
