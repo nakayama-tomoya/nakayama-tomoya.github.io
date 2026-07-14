@@ -19,19 +19,19 @@ author_profile: false
 
   <!-- 1枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png" alt="画像1説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>画像1のキャプション</small>
+    <img src="/assets/images/AdobeStock_medaka_compress.jpeg" alt="画像1説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>水の中を優雅に泳ぐメダカ</small>
   </div>
 
   <!-- 2枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/sections.png" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>画像2のキャプション</small>
+    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>GFPが発現しているメダカ</small>
   </div>
 
   <!-- 3枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <img src="/assets/images/sections_compress.jpg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
     <small>画像3のキャプション</small>
   </div>
 
@@ -41,6 +41,19 @@ author_profile: false
 ### 2. 工事中
 
 xxx。
+
+<!-- 3枚の画像を横並びにするブロック -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin: 30px 0;">
+
+  <!-- 1枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/sections_compress.jpg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>画像1のキャプション</small>
+  </div>
+
+ 
+
+</div>
 
 ---
 
