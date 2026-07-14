@@ -20,7 +20,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "プロフィールを見る"
-  - image_path: https://images.unsplash.com/photo-1535557142533-b5e1cc6e2a5d?w=600
+  - image_path: /assets/images/AdobeStock_fish_compress.jpeg
     alt: "Research"
     title: "研究内容"
     excerpt: "地球上に生息する多様な能力を有する生物に着目し、その能力の分子機構に迫ります。"
