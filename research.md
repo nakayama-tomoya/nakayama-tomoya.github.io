@@ -19,7 +19,7 @@ author_profile: false
 
   <!-- 1枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/AdobeStock_medaka_compress.jpeg" alt="画像1説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <img src="/assets/images/AdobeStock_medaka_compress.jpeg" alt="水のなかを優雅に泳ぐメダカ" style="width: 100%; height: 200px; object-fit: cover; display: block; margin-bottom: 5px;">
     <small>水の中を優雅に泳ぐメダカ</small>
   </div>
 
