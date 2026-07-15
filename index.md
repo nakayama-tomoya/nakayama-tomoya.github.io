@@ -16,21 +16,21 @@ feature_row:
   - image_path: https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600 # ←自己紹介用のクリーンなイメージ画像
     alt: "About Me"
     title: "自己紹介"
-    excerpt: "中山 友哉の略歴、学位、所属学会、および外部プラットフォーム（researchmapなど）へのリンクをご覧いただけます。"
+    excerpt: "中山 友哉の略歴などをご覧いただけます。"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "プロフィールを見る"
   - image_path: /assets/images/AdobeStock_fish_compress.jpeg
     alt: "Research"
     title: "研究内容"
-    excerpt: "地球上に生息する多様な能力を有する生物に着目し、その能力の分子機構に迫ります。"
+    excerpt: "水生生物の巧みな生存戦略に着目し、その分子機構に迫ります。"
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "もっと見る"
   - image_path: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600
     alt: "Publications"
     title: "研究業績"
-    excerpt: "これまでの主要論文や受賞歴、基礎生物学研究所のプレスリリースなどへのリンクはこちらから。"
+    excerpt: "これまでの論文や受賞歴などへのリンクはこちらから。"
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "業績一覧"
@@ -42,6 +42,6 @@ feature_row:
 
 ##  最新ニュース
 
-* **2026.07.03**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、『General and Comparative Endocrinology』誌に掲載されました。([論文](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub))
+* **2026.07.03**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、[『General and Comparative Endocrinology』誌](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub)に掲載されました。
 * **2026.06.29**：個人ホームページを開設しました。
 * **2026.04.01**：学術変革（A）[「多次元グローカル光バイオロジー：光が照らす生命現象の未知の沃壌」](https://glocal-photobiology.pharm.okayama-u.ac.jp)の計画班として研究をスタートしました。
