@@ -1,16 +1,16 @@
 ---
 layout: splash
 permalink: /
-title: "水生生物が有するユニークな能力に着目し、その機能に迫る"
+title: "水生生物が有するユニークな能力に迫る"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png # ←後でお好きなメダカなどの画像URLに差し替えられます
   excerpt: "メダカから解き明かす、動物が季節や温度に適応する仕組みと脳の不思議"
-  actions:
+  <!-- actions:
     - label: "研究内容について詳しく"
-      url: "/research/"
-excerpt: "生物が有する能力の分子機構に迫る"
+      url: "/research/" -->
+excerpt: "水生生物が有するユニークな能力に着目し、その分子機構に迫る"
 
 feature_row:
   - image_path: https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600 # ←自己紹介用のクリーンなイメージ画像
