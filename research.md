@@ -25,14 +25,14 @@ author_profile: false
 
   <!-- 2枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>GFPが発現しているメダカ</small>
+    <img src="/assets/images/oca2_TripleKO2.jpeg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>体色に関わる遺伝子を編集したゲノム編集個体</small>
   </div>
 
   <!-- 3枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/sections_compress.jpg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>画像3のキャプション</small>
+    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>GFPが発現しているメダカ</small>
   </div>
 
 </div>
