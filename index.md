@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "生物が有する特殊な能力の機能に迫る"
+title: "水生生物が有するユニークな能力に着目し、その機能に迫る"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
