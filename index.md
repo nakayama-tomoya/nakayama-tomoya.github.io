@@ -6,10 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png # ←後でお好きなメダカなどの画像URLに差し替えられます
-  excerpt: "メダカから解き明かす、動物が季節や温度に適応する仕組みと脳の不思議"
-  <!-- actions:
-    - label: "研究内容について詳しく"
-      url: "/research/" -->
+  excerpt: "メダカから解き明かす、動物が季節や温度に適応する仕組みと脳の不思議"  
 excerpt: "水生生物が有するユニークな能力に着目し、その分子機構に迫る"
 
 feature_row:
