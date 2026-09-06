@@ -12,7 +12,7 @@ feature_row:
     alt: "About Me"
     title: "自己紹介"
     excerpt: "中山 友哉の略歴などをご覧いただけます。"
-    url: "/about/"
+    url: "/profile/"
     btn_class: "btn--primary"
     btn_label: "プロフィールを見る"
   - image_path: /assets/images/AdobeStock_fish_compress.jpeg
