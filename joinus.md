@@ -1,6 +1,7 @@
 ---
 title: "Join Us"
 permalink: /joinus/
+layout: splash
 author_profile: false
 ---
 
