@@ -6,36 +6,37 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png # ←後でお好きなメダカなどの画像URLに差し替えられます
-
-feature_row:
-  - image_path: https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600 # ←自己紹介用のクリーンなイメージ画像
-    alt: "About Me"
-    title: "自己紹介"
-    excerpt: "中山 友哉の略歴などをご覧いただけます。"
-    url: "/profile/"
-    btn_class: "btn--primary"
-    btn_label: "プロフィールを見る"
-  - image_path: /assets/images/AdobeStock_fish_compress.jpeg
-    alt: "Research"
-    title: "研究内容"
-    excerpt: "水生生物の巧みな生存戦略に着目し、その分子機構に迫ります。"
-    url: "/research/"
-    btn_class: "btn--primary"
-    btn_label: "もっと見る"
-  - image_path: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600
-    alt: "Publications"
-    title: "研究業績"
-    excerpt: "これまでの論文や受賞歴などへのリンクはこちらから。"
-    url: "/publications/"
-    btn_class: "btn--primary"
-    btn_label: "業績一覧"
+# feature_row:
+#   - image_path: https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600 # ←自己紹介用のクリーンなイメージ画像
+#     alt: "About Me"
+#     title: "自己紹介"
+#     excerpt: "中山 友哉の略歴などをご覧いただけます。"
+#     url: "/profile/"
+#     btn_class: "btn--primary"
+#     btn_label: "プロフィールを見る"
+#   - image_path: /assets/images/AdobeStock_fish_compress.jpeg
+#     alt: "Research"
+#     title: "研究内容"
+#     excerpt: "水生生物の巧みな生存戦略に着目し、その分子機構に迫ります。"
+#     url: "/research/"
+#     btn_class: "btn--primary"
+#     btn_label: "もっと見る"
+#   - image_path: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600
+#     alt: "Publications"
+#     title: "研究業績"
+#     excerpt: "これまでの論文や受賞歴などへのリンクはこちらから。"
+#     url: "/publications/"
+#     btn_class: "btn--primary"
+#     btn_label: "業績一覧"
 ---
 
+{% comment %}
 {% include feature_row %}
+{% endcomment %}
 
 ---
 
-##  最新ニュース
+## 最新ニュース
 
 * **2026.09.04**：日本動物学会第97回大会（札幌）にて開催されたシンポジウム「光利用システムの普遍性と局所性から捉える生命現象の多元的理解」で、研究発表を行いました。
 * **2026.07.03**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、[『General and Comparative Endocrinology』誌](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub)に掲載されました。
