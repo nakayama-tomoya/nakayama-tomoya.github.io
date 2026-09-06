@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "自己紹介 (About Me)"
-permalink: /about/
+permalink: /profile/
 ---
 
 <img src="/assets/images/TomoyaNakayama.jpeg" alt="中山友哉" style="max-width: 30%; height: auto; display: block; margin: 0 auto;">
