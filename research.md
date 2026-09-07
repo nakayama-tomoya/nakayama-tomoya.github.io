@@ -26,7 +26,7 @@ author_profile: false
   <!-- 2枚目 -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="/assets/images/oca2_TripleKO2.jpeg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>体色に関わる遺伝子を編集したゲノム編集個体</small>
+    <small>ゲノム編集メダカ</small>
   </div>
 
   <!-- 3枚目 -->
@@ -37,6 +37,9 @@ author_profile: false
 
 </div>
 
+## 1-1. 新規光周性遺伝子 phod1に関する研究
+
+## 1-2. 優れた温度適応能を有する仕組みは？
 
 ### 2. 工事中
 
