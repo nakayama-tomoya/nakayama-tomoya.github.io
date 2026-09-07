@@ -11,6 +11,10 @@
 .page__hero--overlay {
   min-height: 35vh;
 
+  .page__title {
+    line-height: 1.6; // 数値を大きくするほど行間が広がります(デフォルトはおおよそ1.2前後)
+  }
+  
   .page__hero-caption {
     font-size: $type-size-6;
   }
