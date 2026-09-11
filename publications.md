@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2024 - Present
 
-* DeepLabCut-based automated system reveals diverse temperature tolerance among medaka strains and related *Oryzias* species. Yoshiya Matsuo, Takuya Kato, Kiyoshi Naruse, Takashi Yoshimura, Tatsuhito Hasegawa\*, **Tomoya Nakayama**\*. *Scientific Reports* 16, 25893, 2026. [DOI: 10.1038/s41598-026-66712-w]
+* DeepLabCut-based automated system reveals diverse temperature tolerance among medaka strains and related *Oryzias* species. Yoshiya Matsuo, Takuya Kato, Kiyoshi Naruse, Takashi Yoshimura, Tatsuhito Hasegawa\*, **Tomoya Nakayama**\*. *Scientific Reports* 16, 25893, 2026. [DOI: 10.1038/s41598-026-66712-w] ([プレスリリース](https://www.nagoya-u.ac.jp/researchinfo/result/2026/09/ai-112.html))
 
 *   Medaka as a model for seasonal adaptation: molecular insights across multiple biological systems. **Tomoya Nakayama**\*, Takashi Yoshimura. *General and Comparative Endocrinology* 383 114967, 2026. [DOI: 10.1016/j.ygcen.2026.114967]
 
