@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "動物が季節に適応する巧みな生存戦略<br>その分子機構に迫る"
+title: "生き物の巧みな適応戦略<br>その分子機構に迫る"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
