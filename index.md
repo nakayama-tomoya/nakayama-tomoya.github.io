@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "生き物の巧みな適応戦略〜その分子機構に迫る〜"
+title: "生き物の巧みな適応戦略の謎〜その分子機構に迫る〜"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
