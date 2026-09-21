@@ -19,9 +19,7 @@ author_profile: false
 
 勤務形態や待遇などの詳細については、お問い合わせいただいた際にご案内しております。ご興味を持たれた方は、下記の連絡先までお気軽にご連絡ください。
 
-### お問い合わせ
-
-興味を持っていただけましたら、以下までお気軽にご連絡ください。
+### お問い合わせ先
 
 - Email: [nakayama.tomoya.r8@f.mail.nagoya-u.ac.jp](mailto:nakayama.tomoya.r8@f.mail.nagoya-u.ac.jp)
 - researchmap: [https://researchmap.jp/nakayama.t](https://researchmap.jp/nakayama.t)
