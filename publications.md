@@ -10,7 +10,7 @@ permalink: /publications/
 
 * Yoshiya Matsuo, Takuya Kato, Kiyoshi Naruse, Takashi Yoshimura, Tatsuhito Hasegawa\*, **Tomoya Nakayama**\*. <br>DeepLabCut-based automated system reveals diverse temperature tolerance among medaka strains and related *Oryzias* species.  *Scientific Reports* 16, 25893, 2026. [DOI: 10.1038/s41598-026-66712-w] ([プレスリリース](https://www.nagoya-u.ac.jp/researchinfo/result/2026/09/ai-112.html))
 
-* **Tomoya Nakayama**\*, Takashi Yoshimura. <br>Medaka as a model for seasonal adaptation: molecular insights across multiple biological systems. *General and Comparative Endocrinology* 383 114967, 2026. [DOI: 10.1016/j.ygcen.2026.114967]
+* Medaka as a model for seasonal adaptation: molecular insights across multiple biological systems. **Tomoya Nakayama**\*, Takashi Yoshimura. *General and Comparative Endocrinology* 383 114967, 2026. [DOI: 10.1016/j.ygcen.2026.114967]
 
 *   **Tomoya Nakayama**\*, Taiki Yamaguchi, Michiyo Maruyama, Satoshi Ansai, Makoto Kashima, Romain Fontaine, Christiaan Henkel, Kiyoshi Naruse, Takashi Yoshimura. <br>*Photoperiod decoder 1* regulates seasonal changes in energy metabolism through the growth hormone signaling pathway.   
 *bioRxiv* 2025.02.19.638565. [DOI: 10.1101/2025.02.19.638565]
@@ -32,6 +32,7 @@ permalink: /publications/
 
 *   Dynamic plasticity in phototransduction regulates seasonal changes in color perception.
     Tsuyoshi Shimmura, **Tomoya Nakayama**, Ai Shinomiya, Shoji Fukamachi, Masaki Yasugi, Eiji Watanabe, Takayuki Shimo, Takumi Senga, Toshiya Nishimura, Minoru Tanaka, Yasuhiro Kamei, Kiyoshi Naruse, Takashi Yoshimura\*. *Nature Communications* 8(1), 2017. [DOI: 10.1038/s41467-017-00432-8] ([プレスリリース](https://www.nibb.ac.jp/press/2017/09/04.html))
+{: .publications-list}
 
 Corresponding Author (責任著者) : **\***
 
