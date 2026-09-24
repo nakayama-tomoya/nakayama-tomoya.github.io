@@ -14,6 +14,7 @@ permalink: /publications/
 
 *   **Tomoya Nakayama**\*, Taiki Yamaguchi, Michiyo Maruyama, Satoshi Ansai, Makoto Kashima, Romain Fontaine, Christiaan Henkel, Kiyoshi Naruse, Takashi Yoshimura. <br>*Photoperiod decoder 1* regulates seasonal changes in energy metabolism through the growth hormone signaling pathway.   
 *bioRxiv* 2025.02.19.638565. [DOI: 10.1101/2025.02.19.638565]
+{: .publications-list}
 
 ### ~ 2023
 
