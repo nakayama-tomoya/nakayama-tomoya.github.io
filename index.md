@@ -40,6 +40,29 @@ header:
 
 季節に応じて活動や代謝、行動を変化させる仕組みは、温帯に生息する動物に共通してみられる巧みな生存戦略です。当グループでは、メダカをはじめとする動物をモデルに、こうした季節・温度適応を支える分子メカニズムを、分子生物学からゲノム解析、行動解析まで幅広いアプローチで明らかにすることを目指しています。
 
+<!-- 3枚の画像を横並びにするブロック -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin: 30px 0;">
+
+  <!-- 1枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/AdobeStock_medaka_compress.jpeg" alt="画像1説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>水の中を優雅に泳ぐメダカ</small>
+  </div>
+
+  <!-- 2枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/oca2_TripleKO2.jpeg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>ゲノム編集メダカ</small>
+  </div>
+
+  <!-- 3枚目 -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
+    <small>GFPが発現しているメダカ</small>
+  </div>
+
+</div>
+
 ## 最新ニュース
 
 * **2026.09.10**：メダカの温度耐性を自動で定量する新たな解析システムに関する研究成果を、福井大学・長谷川達人先生との共同研究により、[『Scientific Reports』誌](https://www.nature.com/articles/s41598-026-66712-w)に発表しました。本研究は[Earth.com](https://www.earth.com/animals/medaka-cold-tolerance-ai/)にも取り上げられました。
