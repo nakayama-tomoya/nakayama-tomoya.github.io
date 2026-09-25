@@ -14,29 +14,6 @@ author_profile: false
 
 <!-- ![メダカとDNA、季節適応のイメージ](/assets/images/Gemini_Generated_Image_l7zaegl7zaegl7za.png) -->
 
-<!-- 3枚の画像を横並びにするブロック -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin: 30px 0;">
-
-  <!-- 1枚目 -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/AdobeStock_medaka_compress.jpeg" alt="画像1説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>水の中を優雅に泳ぐメダカ</small>
-  </div>
-
-  <!-- 2枚目 -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/oca2_TripleKO2.jpeg" alt="画像2説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>ゲノム編集メダカ</small>
-  </div>
-
-  <!-- 3枚目 -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/assets/images/medaka_GFP.png" alt="画像3説明" style="width: 100%; height: auto; display: block; margin-bottom: 5px;">
-    <small>GFPが発現しているメダカ</small>
-  </div>
-
-</div>
-
 #### 1-1. 新規光周性遺伝子 *phod1*に関する研究
 
 動物は日の長さ（日長）の変化を手がかりに、季節の変化を感知しています。私たちは、この日長の情報を体内で読み解く新たな遺伝子「*photoperiod decoder 1*（*phod1*）」を発見しました。*phod1*は、日長が長い条件（長日条件）においてのみ、朝と夕方の2回にピークを示すユニークな発現パターンを示します。私たちは、*phod1*がどのような機能を担うことで季節応答を制御しているのかを明らかにするとともに、この特徴的な2峰性の発現プロファイルがどのようなメカニズムで生み出されているのかについても解析を進めています。
