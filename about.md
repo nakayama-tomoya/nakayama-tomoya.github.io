@@ -67,10 +67,10 @@ permalink: /profile/
 
 ---
 
-##  外部リンク
+##  外部リンクhttps://orcid.org/0000-0003-4175-3167
 
 より詳細な経歴、共同研究の履歴、各種委員会活動などは以下の外部プラットフォームをご参照ください。
 
 *   **[researchmap (中山 友哉)](https://researchmap.jp/nakayama.t)**：最新の全業績・活動実績が網羅されています。
-*   **[ORCID (0000-0002-3103-6893)](https://orcid.org/0000-0002-3103-6893)**：国際的な研究者IDプラットフォーム。
+*   **[ORCID (0000-0003-4175-3167)](https://orcid.org/0000-0003-4175-3167)**：国際的な研究者IDプラットフォーム。
 *   **[Google Scholar](https://scholar.google.com/)**：論文の被引用ステータスなど。
