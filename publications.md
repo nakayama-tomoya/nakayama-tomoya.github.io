@@ -51,6 +51,6 @@ Corresponding Author (責任著者) : **\***
 
 ---
 
-最新の全業績リストは、**[researchmap (中山 友哉)](https://researchmap.jp/nakayama.t)** をご覧ください。
+最新の全業績リストは、**[researchmap](https://researchmap.jp/nakayama.t)** をご覧ください。
 
 ---
