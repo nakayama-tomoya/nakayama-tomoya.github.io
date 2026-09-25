@@ -73,4 +73,4 @@ permalink: /profile/
 
 *   **[researchmap (中山 友哉)](https://researchmap.jp/nakayama.t)**：最新の全業績・活動実績が網羅されています。
 *   **[ORCID (0000-0003-4175-3167)](https://orcid.org/0000-0003-4175-3167)**：国際的な研究者IDプラットフォーム。
-*   **[Google Scholar](https://scholar.google.com/)**：論文の被引用ステータスなど。
+*   **[Google Scholar](https://scholar.google.co.jp/citations?user=uaDLh0IAAAAJ&hl=ja)**：論文の被引用ステータスなど。
