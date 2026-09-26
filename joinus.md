@@ -17,9 +17,8 @@ author_profile: false
 
 現在、実験業務を支えていただける技術支援員を募集しています。メダカの飼育管理や遺伝子実験（PCR、シーケンシング、ゲノム編集など）の補助を中心に、研究の土台を支える大切な役割です。生き物のお世話や実験作業をコツコツ丁寧に進めることが好きな方、大歓迎です。時短勤務についてもご相談のうえ対応可能です。
 
-勤務形態や待遇などの詳細については、お問い合わせいただいた際にご案内しております。ご興味を持たれた方は、下記の連絡先までお気軽にご連絡ください。
+勤務形態などの詳細については、お問い合わせいただいた際にご案内しております。ご興味を持たれた方は、下記の連絡先までお気軽にご連絡ください。
 
 ### お問い合わせ先
 
-- Email: [nakayama.tomoya.r8@f.mail.nagoya-u.ac.jp](mailto:nakayama.tomoya.r8@f.mail.nagoya-u.ac.jp)
-- researchmap: [https://researchmap.jp/nakayama.t](https://researchmap.jp/nakayama.t)
+Email: [nakayama.tomoya.r8@f.mail.nagoya-u.ac.jp](mailto:nakayama.tomoya.r8@f.mail.nagoya-u.ac.jp)
