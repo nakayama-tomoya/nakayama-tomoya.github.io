@@ -11,3 +11,17 @@ main:
     url: /joinus/
   - title: "English"
     url: /en/
+
+main-en:
+  - title: "Home"
+    url: /en/
+  - title: "Profile"
+    url: /en/profile/
+  - title: "Research"
+    url: /en/research/
+  - title: "Publications"
+    url: /en/publications/
+  - title: "Join Us"
+    url: /en/joinus/
+  - title: "日本語"
+    url: /
