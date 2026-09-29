@@ -12,7 +12,7 @@ main:
   - title: "English"
     url: /en/
 
-main-en:
+main_en:
   - title: "Home"
     url: /en/
   - title: "Profile"
