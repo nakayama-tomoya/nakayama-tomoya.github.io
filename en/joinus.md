@@ -14,11 +14,9 @@ Our group aims to elucidate the molecular mechanisms underlying seasonal and tem
 
 We welcome students who enjoy digging deep into the "why" behind biological phenomena, and who find satisfaction in steadily approaching answers through experiments and analysis. If you'd like to learn more about our lab atmosphere or specific research projects, please feel free to get in touch. Lab visits are also welcome.
 
-### We Are Hiring a Research Technician
+### About Research Technician Positions
 
-We are currently looking for a research technician to support our experimental work. The role centers on assisting with medaka husbandry and genetic experiments (PCR, sequencing, genome editing, etc.), providing essential support for our research. We warmly welcome anyone who enjoys carefully and steadily carrying out animal care and experimental work. Reduced working hours can also be arranged upon consultation.
-
-Further details regarding working conditions will be provided when you contact us. If you are interested, please feel free to reach out using the contact information below.
+We are continuously accepting applications for a research technician to support our experimental work. The role centers on assisting with medaka husbandry and genetic experiments (PCR, sequencing, genome editing, etc.), providing essential support for our research. We warmly welcome anyone who enjoys carefully and steadily carrying out animal care and experimental work. Further details regarding working conditions will be provided when you contact us. If you are interested, please feel free to reach out using the contact information below.
 
 ### Contact
 
