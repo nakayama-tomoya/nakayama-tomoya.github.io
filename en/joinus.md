@@ -8,7 +8,7 @@ lang: en
 
 ## Join Our Research
 
-Our group aims to elucidate the molecular mechanisms underlying seasonal and temperature adaptation in aquatic organisms, including medaka, using a wide range of approaches spanning molecular biology, genomics, and behavioral analysis. We welcome anyone eager to join us in tackling the mysteries of these remarkable survival strategies.
+Our group aims to elucidate the molecular mechanisms underlying seasonal and temperature adaptation in aquatic organisms, including fish, using a wide range of approaches spanning molecular biology, genomics, and behavioral analysis. We welcome anyone eager to join us in tackling the mysteries behind the ingenious survival strategies woven by these animals.
 
 ### For Prospective Students
 
