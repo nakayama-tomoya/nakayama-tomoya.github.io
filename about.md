@@ -6,7 +6,7 @@ permalink: /profile/
 
 <img src="/assets/images/TomoyaNakayama.jpeg" alt="中山友哉" style="max-width: 30%; height: auto; display: block; margin: 0 auto;">
 
-# 中山　友哉（Nakayama Tomoya）
+# 中山友哉（Nakayama Tomoya）
 
 ##  趣味
 
