@@ -1,5 +1,6 @@
 # サイト基本設定
-title: "Tomoya Nakayama"
+title: "中山友哉 (Tomoya Nakayama)"
+masthead_title: "Tomoya Nakayama"
 locale: "ja-JP"
 permalink: /:categories/:title/
 url: "https://nakayama-tomoya.github.io"
