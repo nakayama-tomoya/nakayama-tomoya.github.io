@@ -12,8 +12,6 @@ plugins:
 
 # テーマの設定（GitHub Pages標準対応形式）
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-include-cache
 
 # プロフィール欄（左側）の設定
 author:
