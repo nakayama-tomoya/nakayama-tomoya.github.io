@@ -4,6 +4,7 @@ locale: "ja-JP"
 permalink: /:categories/:title/
 url: "https://nakayama-tomoya.github.io"
 description: "中山友哉（Tomoya Nakayama）のホームページ。名古屋大学。メダカ等の動物の季節適応・温度適応の分子機構を研究しています。"
+google_site_verification: "JLcbNWqy_CTqdMAF0Kt_5NtVUc0MRIIk0WMcZTOfFGM"
 
 plugins:
   - jekyll-include-cache
