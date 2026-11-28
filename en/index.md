@@ -15,6 +15,7 @@ Many organisms share a remarkable survival strategy: the ability to adjust their
 
 ## Latest News
 
+* **2026.11.27**: Received the 25th Japan Agricultural Science Progress Award (FY2026) for research on the molecular mechanisms controlling seasonal changes in physiological functions and behavior in vertebrates. [Details (Japanese)](https://www.nougaku.jp/025.html)
 * **2026.09.10**: In collaboration with Prof. Tatsuhito Hasegawa (University of Fukui), our study on a new automated system for quantifying temperature tolerance in medaka was published in [*Scientific Reports*](https://www.nature.com/articles/s41598-026-66712-w). The work was also featured on [Earth.com](https://www.earth.com/animals/medaka-cold-tolerance-ai/).
 * **2026.09.04**: Presented our research at a symposium, "Multidimensional understanding of biological phenomena through the universality and locality of light-utilizing systems," held at the 97th Annual Meeting of the Zoological Society of Japan (Sapporo).
 * **2026.07.03**: A review article summarizing the seasonal adaptation mechanisms of vertebrates revealed through medaka research was published in [*General and Comparative Endocrinology*](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub).
