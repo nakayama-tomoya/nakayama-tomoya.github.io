@@ -65,6 +65,7 @@ header:
 
 ## 最新ニュース
 
+* **2026.11.27**：「脊椎動物の生理機能や行動の季節変化を制御する分子機構の解明」の研究で、令和8年度（第25回）[日本農学進歩賞](https://www.nougaku.jp/025.html)を受賞しました。
 * **2026.09.10**：メダカの温度耐性を自動で定量する新たな解析システムに関する研究成果を、福井大学・長谷川達人先生との共同研究により、[『Scientific Reports』誌](https://www.nature.com/articles/s41598-026-66712-w)に発表しました。本研究は[Earth.com](https://www.earth.com/animals/medaka-cold-tolerance-ai/)にも取り上げられました。
 * **2026.09.04**：日本動物学会第97回大会（札幌）にて開催されたシンポジウム「光利用システムの普遍性と局所性から捉える生命現象の多元的理解」で、研究発表を行いました。
 * **2026.07.03**：メダカの研究から明らかになった脊椎動物の季節適応機構をまとめた総説が、[『General and Comparative Endocrinology』誌](https://www.sciencedirect.com/science/article/pii/S0016648026000948?via%3Dihub)に掲載されました。
